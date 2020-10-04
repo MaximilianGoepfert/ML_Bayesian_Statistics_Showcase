@@ -4,7 +4,7 @@
 
 ## Code and Resources Used
 __R Version__: 3.6.2 \
-__Packages__: dplyr, ggplot2, ggthemes, multcomp, caret, randomForest, class, e1071 \
+__Packages__: dplyr, ggplot2, ggthemes, multcomp, caret, randomForest, class, e1071, R2jags, ggmcmc
 
 ## Part One: Machine Learning
 - abc
