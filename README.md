@@ -38,4 +38,4 @@ The following steps have been conducted:
 - Also considered a simplified Bayesian model
 - Compared performance of 'full' and simplified models using the Deviance Information Criterion (DIC)
 <br/>
-![alt text](https://github.com/MaximilianGoepfert/ML_Bayesian_Statistics_Showcase/blob/main/density_plot.png "Density Plots")
+![alt text](https://github.com/MaximilianGoepfert/ML_Bayesian_Statistics_Showcase/density_plot.png "Density Plots")
