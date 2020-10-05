@@ -16,7 +16,7 @@ The following steps have been conducted:
 - Visualized the resulting classification rule for each method
 - Tested the methods on the test set, finding the test error for each model
 <br/>
-![alt text](https://github.com/MaximilianGoepfert/ML_Bayesian_Statistics_Showcase/blob/master/knn_classifier.png "KNN Figure")
+![alt text](https://github.com/MaximilianGoepfert/ML_Bayesian_Statistics_Showcase/blob/main/knn_classifier.png "KNN Figure")
 <br/>
 
 ## Part Two: Frequentist Inference
@@ -26,7 +26,7 @@ The following steps have been conducted:
 - Performed a Follow-up Analysis using Tukey HSD-Test
 - Tested whether the underlying crop yield obtained using the fourth fertilizer is more than 0.5 units greater than the average of the underlying crop yield levels obtained using the other three fertilizers
 <br/>
-![alt text](https://github.com/MaximilianGoepfert/ML_Bayesian_Statistics_Showcase/blob/master/frequentist_plot.PNG "Frequentist Plot")
+![alt text](https://github.com/MaximilianGoepfert/ML_Bayesian_Statistics_Showcase/main/frequentist_plot.PNG "Frequentist Plot")
 <br/>
 
 ## Part Three: Bayesian Inference
@@ -38,4 +38,4 @@ The following steps have been conducted:
 - Also considered a simplified Bayesian model
 - Compared performance of 'full' and simplified models using the Deviance Information Criterion (DIC)
 <br/>
-![alt text](https://github.com/MaximilianGoepfert/ML_Bayesian_Statistics_Showcase/blob/master/density_plot.PNG "Density Plots")
+![alt text](https://github.com/MaximilianGoepfert/ML_Bayesian_Statistics_Showcase/blob/main/density_plot.PNG "Density Plots")
