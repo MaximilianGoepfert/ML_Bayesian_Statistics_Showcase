@@ -32,6 +32,5 @@ The following steps have been conducted:
 - Modified our jags code to also perform inference about a selection of group differences
 - Found the posterior probabability that the underlying crop yield obtained using the fourth fertilizer is more than 0.5 units greater than the average of the underlying crop yield levels obtained using the other three fertilizers
 - Also considered a simplified Bayesian model
-- Compared performance of 'full' and simplified models using the Deviance Information Criterion (DIC)
-<br/>
+- Compared performance of 'full' and simplified models using the Deviance Information Criterion (DIC) <br/> <br/>
 ![alt text](https://github.com/MaximilianGoepfert/ML_Bayesian_Statistics_Showcase/blob/main/Images/density_plot.png)
