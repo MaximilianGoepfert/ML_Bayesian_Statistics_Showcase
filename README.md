@@ -24,7 +24,12 @@ The following steps have been conducted:
 - Tested whether the underlying crop yield obtained using the fourth fertilizer is more than 0.5 units greater than the average of the underlying crop yield levels obtained using the other three fertilizers
 
 ## Part Three: Bayesian Inference
-- abc
--def
+- Wrote jags/BUGS code to perform inference about a related Bayesian one-way Analysis of Variance model
+- Visualized the posterior densities
+- Included a graphical representation and the numerical values of the 95% credible intervals for the parameters 
+- Modified our jags code to also perform inference about a selection of group differences
+- Found the posterior probabability that the underlying crop yield obtained using the fourth fertilizer is more than 0.5 units greater than the average of the underlying crop yield levels obtained using the other three fertilizers
+- Also considered a simplified Bayesian model
+- Compared performance of 'full' and simplified models using the Deviance Information Criterion (DIC)
 
 ...Work in Progress...
