@@ -16,7 +16,7 @@ The following steps have been conducted:
 - Visualized the resulting classification rule for each method
 - Tested the methods on the test set, finding the test error for each model
 <br/>
-![alt text](https://github.com/MaximilianGoepfert/ML_Bayesian_Statistics_Showcase/blob/main/knn_classifier.png "KNN Figure")
+![](/images/knn_classifier.PNG)
 <br/>
 
 ## Part Two: Frequentist Inference
