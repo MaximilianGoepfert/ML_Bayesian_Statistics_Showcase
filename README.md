@@ -16,9 +16,12 @@ The following steps have been conducted:
 - Visualized the resulting classification rule for each method
 - Tested the methods on the test set, finding the test error for each model
 
-## Part Two: Bayesian Inference
+## Part Two: Frequentist Inference
 - abc
 - def
 
+## Part Three: Bayesian Inference
+- abc
+-def
 
 ...Work in Progress...
