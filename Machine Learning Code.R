@@ -22,9 +22,8 @@ attach(orchids_tbl)
 
 ## Part a)
 
-# Present the data visually using bivariate scatter plots and colour-coding to distinguish between three locations of orchids. 
-# Choose two of the three characteristcs X1, X2 and X3 that should be used as predictors for orchids and locations. Justify your choice using graphs. 
-# Comment on the data in the context of the problem.
+# Presenting the data visually using bivariate scatter plots and colour-coding to distinguish between three locations of orchids. 
+# We chose two of the three characteristcs X1, X2 and X3 that should be used as predictors for orchids and locations. 
 
 # Plot 1
 # Petal length and leaf width 
@@ -60,7 +59,7 @@ ggplot (orchids_tbl)+
 
 ## Part b)
 
-# Create a training set consisting of 210 randomly chosen data points and a test set consisting of the remaining 60 data points.
+# Creating a training set consisting of 210 randomly chosen data points and a test set consisting of the remaining 60 data points.
 
 set.seed(2) # to make the results reproducible
 test <-sample(270,60)
