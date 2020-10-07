@@ -1,6 +1,10 @@
 # Machine Learning & Bayesian Statistics: Project Overview
-- abc
-- def
+This project has been split into three parts:
+- A Machine Learning part that demonstrates the use of several popular machine learning techniques
+- A short frequentist statistics part, performing a (frequentist) ANOVA test
+- A bayesian statistics part, making use of two bayesian one-way ANOVA models 
+
+The first part makes use of the provided orchids data, while parts two and three manually create their own dataset. A detailed description of the steps performed can be found below.
 
 ## Code and Resources Used
 __R Version__: 3.6.2 \
